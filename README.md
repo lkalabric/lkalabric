@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lkalabric
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning perl and bash scripting languages
-- 💞️ I’m looking to collaborate on metagnomics analysis
+- 💞️ I’m looking to collaborate on metagenomics analysis
 - 📫 Reach me via e-mail luciano.kalabric@fiocruz.br
 
 <!---
